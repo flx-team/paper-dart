@@ -16,7 +16,7 @@ jobs:
         run: flutter pub get
       - name: Verify formatting
         run: dart format --output=none --set-exit-if-changed .
-      - name: Analyze project sourceCreated Dart Workflow
+      - name: Analyze project source
         run: dart analyze --fatal-infos
       # Uncommit when tests tests are added
       #- name: Run tests
