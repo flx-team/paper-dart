@@ -13,10 +13,10 @@ jobs:
       - uses: actions/checkout@v2
       - uses: dart-lang/setup-dart@v1
       - name: Install dependencies
-        run: dart pub get
+        run: flutter pub get
       - name: Verify formatting
         run: dart format --output=none --set-exit-if-changed .
-      - name: Analyze project source
+      - name: Analyze project sourceCreated Dart Workflow
         run: dart analyze --fatal-infos
       # Uncommit when tests tests are added
       #- name: Run tests
