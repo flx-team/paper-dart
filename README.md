@@ -1,4 +1,4 @@
-![](https://github.com/the-flx/paper/blob/master/.github/assets/logo_wide.png)
+![](https://github.com/the-flx/paper/blob/main/.github/assets/logo_wide.png)
 
 Paper is a implementation of Flx Design System for Flutter.
 
