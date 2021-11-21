@@ -1,6 +1,6 @@
 ![](https://github.com/the-flx/paper/blob/main/.github/assets/logo_wide.png)
 
-Paper is a implementation of Flx Design System for Flutter.
+Paper is flutter widgets implementing Flx Paper Design.
 
 ## Installing
 
